@@ -6,4 +6,5 @@ export interface ICourse {
     code: string;
     duration: number;
     rating: number;
+    releaseDate: string;
 }

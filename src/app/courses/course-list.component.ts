@@ -17,6 +17,7 @@ export class CourseListComponent implements OnInit {
                 imageUrl: '',
                 price: 99.99,
                 code: 'ABC-112345',
+                releaseDate: 'August, 24, 2021',
                 duration: 120,
                 rating: 5.4            
             },
@@ -26,6 +27,7 @@ export class CourseListComponent implements OnInit {
                 imageUrl: '',
                 price: 45.99,
                 code: 'ABC-112346',
+                releaseDate: 'August, 24, 2021',
                 duration: 80,
                 rating: 4            
             }
