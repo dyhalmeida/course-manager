@@ -7,4 +7,5 @@ export interface ICourse {
     duration: number;
     rating: number;
     releaseDate: string;
+    description: string;
 }
